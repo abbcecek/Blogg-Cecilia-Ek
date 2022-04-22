@@ -1,6 +1,7 @@
 <template>
   <div>
-    <nuxt-content :document="markdown" class="my-4 p-5 text-xl"> </nuxt-content>
+    <nuxt-content :document="markdown" class="my-10 px-5 text-xl md:text-2xl">
+    </nuxt-content>
   </div>
 </template>
 

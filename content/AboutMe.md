@@ -1,4 +1,4 @@
-<h1 class="text-3xl md:text-5xl mb-8">Om mig :)</h1>
+<h1 class="text-3xl md:text-5xl lg:text-6xl mb-8 md:mb-10">Om mig :)</h1>
 
 Hej hej, det här är en sida om mig
 
