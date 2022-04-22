@@ -2,6 +2,19 @@ export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
 
+
+  generate: {
+    routes: [
+      '/post-details/1',
+      '/post-details/2',
+      '/post-details/3',
+      '/post-details/4',
+      '/post-details/5',
+      '/post-details/6',
+      '/post-details/7',
+    ]
+  },
+
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     title: 'Blogg',
